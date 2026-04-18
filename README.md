@@ -18,7 +18,7 @@
 - 📊 **B.S. Data Science & AI** @ IIT Madras (CGPA: 8.44)
 - 🔬 Research focus: **Structural Health Monitoring** using ML & predictive modeling
 - 📈 CMO @ Kepler Codes | Secretary @ JU AstroSci Club
-- 🏅 JEE Main 97.02%ile | WBJEE 1648 | ISI AIR 648 | India Rank 5 @ Purple Comet
+- WBJEE 1648 | ISI AIR 648 | India Rank 5 @ Purple Comet
 - 💡 Exploring: computational structural engineering, finance & emerging tech
 
 <br clear="right"/>
