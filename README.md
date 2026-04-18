@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Archishman+Das+%F0%9F%91%8B;Civil+Eng+%40+Jadavpur+University;Data+Science+%26+AI+%40+IIT+Madras;Building+at+the+intersection+of+structures+%26+ML)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Archishman+Das+%F0%9F%91%8B;Civil+Eng+%40+Jadavpur+University;Data+Science+%26+AI+%40+IIT+Madras;Building+at+the+intersection+of+structures+%26+ML;Throughout+Heaven+and+Earth%2C+I+Alone+Am+the+Honored+One)](https://git.io/typing-svg)
+
+<img src="https://media.giphy.com/media/cruO3FTeoAxjiTVxPW/giphy.gif" width="300" />
 
 ![Visitors](https://komarev.com/ghpvc/?username=Archemasachika7&color=6E57F7&style=flat-square&label=Profile+Views)
 
@@ -10,12 +12,16 @@
 
 ### 🧠 About Me
 
+<img align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200" />
+
 - 🏛️ **B.E. Civil Engineering** @ Jadavpur University, Kolkata (GPA: 8.55)
 - 📊 **B.S. Data Science & AI** @ IIT Madras (CGPA: 8.44)
 - 🔬 Research focus: **Structural Health Monitoring** using ML & predictive modeling
-- 📈 CMO @ [Kepler Codes]((https://kepler-22b.vercel.app)) | Secretary @ JU AstroSci Club
+- 📈 CMO @ Kepler Codes | Secretary @ JU AstroSci Club
 - 🏅 JEE Main 97.02%ile | WBJEE 1648 | ISI AIR 648 | India Rank 5 @ Purple Comet
 - 💡 Exploring: computational structural engineering, finance & emerging tech
+
+<br clear="right"/>
 
 ---
 
@@ -68,8 +74,8 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [🏗️ Structural Health Monitoring](https://github.com/Archemasachika7) | Predictive ML model for building life expectancy using 50yr environmental data from Tokyo, Guwahati, LA & Kolkata | PyTorch, Python, Gemini API |
-| [🌌 JU AstroSci Website](https://juasci.vercel.app/) | Official club website with API integrations & advanced Framer Motion animations | React, TypeScript, Framer Motion |
+| [🏗️ Structural Health Monitoring](https://github.com/Archemasachika7) | Predictive ML for building life expectancy using 50yr environmental data from Tokyo, Guwahati, LA & Kolkata | PyTorch, Python, Gemini API |
+| [🌌 JU AstroSci Website](https://juasci.vercel.app/) | Official club site with API integrations & Framer Motion animations | React, TypeScript, Framer Motion |
 
 ---
 
@@ -77,7 +83,13 @@
 
 ![Snake animation](https://github.com/Archemasachika7/Archemasachika7/blob/output/github-contribution-grid-snake-dark.svg)
 
-> ⚙️ To enable the snake, create a GitHub Action — I can provide the workflow file!
+---
+
+### 😤 Current Mood while Debugging
+
+<div align="center">
+<img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="320" />
+</div>
 
 ---
 
@@ -94,20 +106,7 @@
 ---
 
 <div align="center">
-  <i>"Engineering the physical world with the tools of the digital one."</i>
+  <i>"Throughout Heaven and Earth, I alone am the honored one."</i>
+  <br/><br/>
+  <img src="https://media.giphy.com/media/kHmVOy84g8G6my7bCL/giphy.gif" width="260" />
 </div>
-
-<!--
-**Archemasachika7/Archemasachika7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
