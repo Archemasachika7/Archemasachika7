@@ -13,7 +13,7 @@
 - 🏛️ **B.E. Civil Engineering** @ Jadavpur University, Kolkata (GPA: 8.55)
 - 📊 **B.S. Data Science & AI** @ IIT Madras (CGPA: 8.44)
 - 🔬 Research focus: **Structural Health Monitoring** using ML & predictive modeling
-- 📈 CMO @ [Kepler Codes](https://github.com) | Secretary @ JU AstroSci Club
+- 📈 CMO @ [Kepler Codes]((https://kepler-22b.vercel.app)) | Secretary @ JU AstroSci Club
 - 🏅 JEE Main 97.02%ile | WBJEE 1648 | ISI AIR 648 | India Rank 5 @ Purple Comet
 - 💡 Exploring: computational structural engineering, finance & emerging tech
 
